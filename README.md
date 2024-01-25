@@ -39,3 +39,36 @@ Unix       |
 Windows    |
 
 
+Technologies              |
+--------------------------|
+Oracle                    |  
+OpenText/Microfocus       |
+Apache                    |
+Nagios
+Zabbix
+
+Cisco
+
+Products              |
+--------------------------|
+Oracle                    |  
+OpenText/Microfocus       |
+Apache                    |
+Nagios
+Zabbix
+CA Service Desk Manager
+Remedy
+Qliksense
+
+Certifications                    |
+----------------------------------|
+Linux Essentials                  |  
+HDI Support Center Analyst        |
+ITIL v3 Foundation                |
+
+
+# To do
+- [ ] Complete Udacity Devops Cloud Engineer Nanodegree
+- [ ] Learning Proxmox
+- [ ] Expand knowledge and experience on Apache web servers and SSL/HTTPS certificate
+
