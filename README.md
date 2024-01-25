@@ -13,54 +13,33 @@ welcome to my Github profile!
 
 I am Paul and I am a sysadmin (specifically an Application Support Specialist). 
 
-I have worked since 2014 predominantly on Linux systems and Oracle products.
+I have worked since 2014 predominantly on **Linux** systems and **Oracle** products.
 
 
 I like to learn new things and improve myself with new ideas.
 
-At the moment in my free time, I am learning piano and DevOps and Cloud Computing.
+At the moment in my free time, I am learning piano and **DevOps** and **Cloud Computing**.
 
-I am interested in: Automation, Monitoring, Linux/Unix, DevOps, Cloud Computing, Oracle Databases, and other cool subjects.
-
-
-I hope enjoy my profile and keep learning and stay hungry!
-
-| Languages  |
-------------|
-Bash       |
-SQL        |
-Python     |
+I am interested in Automation, Monitoring, Linux/Unix, DevOps, Cloud Computing, Oracle Databases, and other cool subjects.
 
 
-OS         |
------------|
-Linux      |
-Unix       |
-Windows    |
+I hope enjoy my profile keep learning and stay hungry!
 
+| Scripting  | 
+-------------|
+Bash         |
+Powershell   |
 
-Technologies              |
+| Products                |
 --------------------------|
-Oracle                    |  
-OpenText/Microfocus       |
+Oracle Database           |  
+Oracle SQL Developer      |
+Toad for Oracle           |
+Oracle Weblogic Server    |
+OpenText Operations Bridge suite (Sitescope, Operations Bridge Manager, Operations Agent, Operations Orchestration) |
 Apache                    |
-Nagios
-Zabbix
 
-Cisco
-
-Products              |
---------------------------|
-Oracle                    |  
-OpenText/Microfocus       |
-Apache                    |
-Nagios
-Zabbix
-CA Service Desk Manager
-Remedy
-Qliksense
-
-Certifications                    |
+| Certifications                  |
 ----------------------------------|
 Linux Essentials                  |  
 HDI Support Center Analyst        |
