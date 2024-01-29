@@ -11,33 +11,29 @@ Hi,
 
 welcome to my Github profile!
 
-I am Paul and I am a sysadmin (specifically an Application Support Specialist). 
+I am Paul and I am a **sysadmin** (specifically an **Application Support Specialist**). 
 
 I have worked since 2014 predominantly on **Linux** systems and **Oracle** products.
 
 
 I like to learn new things and improve myself with new ideas.
 
-At the moment in my free time, I am learning piano and **DevOps** and **Cloud Computing**.
+At the moment I am studying **DevOps** and **Cloud Computing**.
+
+
+I am learning piano and I like to travel to know new places.
+
 
 I am interested in Automation, Monitoring, Linux/Unix, DevOps, Cloud Computing, Oracle Databases, and other cool subjects.
 
 
 I hope enjoy my profile keep learning and stay hungry!
 
+
 | Scripting  | 
 -------------|
-Bash         |
+Bash     |
 Powershell   |
-
-| Products                |
---------------------------|
-Oracle Database           |  
-Oracle SQL Developer      |
-Toad for Oracle           |
-Oracle Weblogic Server    |
-OpenText Operations Bridge suite (Sitescope, Operations Bridge Manager, Operations Agent, Operations Orchestration) |
-Apache                    |
 
 | Certifications                  |
 ----------------------------------|
@@ -47,7 +43,7 @@ ITIL v3 Foundation                |
 
 
 # To do
-- [ ] Complete Udacity Devops Cloud Engineer Nanodegree
+- [ ] Complete Udacity DevOps Cloud Engineer Nanodegree
 - [ ] Learning Proxmox
 - [ ] Expand knowledge and experience on Apache web servers and SSL/HTTPS certificate
 
