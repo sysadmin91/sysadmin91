@@ -44,6 +44,6 @@ ITIL v3 Foundation                |
 
 # To do
 - [ ] Complete Udacity DevOps Cloud Engineer Nanodegree
-- [ ] Learning Proxmox
+- [X] Learning Proxmox
 - [ ] Expand knowledge and experience on Apache web servers and SSL/HTTPS certificate
 
