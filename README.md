@@ -11,7 +11,7 @@ Hi,
 
 welcome to my Github profile!
 
-I am Paul and I am a **sysadmin** (specifically an **Application Support Specialist**). 
+I am Paul and I am a **Linux sysadmin**. 
 
 I have worked since 2014 predominantly on **Linux** systems and **Oracle** products.
 
@@ -33,13 +33,12 @@ I hope enjoy my profile keep learning and stay hungry!
 | Scripting  | 
 -------------|
 Bash     |
-Powershell   |
+
 
 | Certifications                  |
 ----------------------------------|
 Linux Essentials                  |  
 HDI Support Center Analyst        |
-ITIL v3 Foundation                |
 
 
 # To do
