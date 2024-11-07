@@ -18,7 +18,7 @@ I have worked since 2014 predominantly on **Linux** systems and **Oracle** produ
 
 I like to learn new things and improve myself with new ideas.
 
-At the moment I am studying **DevOps** and **Cloud Computing**.
+At the moment I am studying **AI**, **DevOps** and **Cloud Computing**.
 
 
 I am learning piano and I like to travel to know new places.
