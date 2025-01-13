@@ -37,6 +37,8 @@ Bash     |
 
 | Certifications                  |
 ----------------------------------|
+Scrum Fundamentals Certified      |
+Google IT Support                 |
 Linux Essentials                  |  
 HDI Support Center Analyst        |
 
