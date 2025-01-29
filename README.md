@@ -42,6 +42,7 @@ Google IT Support                 |
 Linux Essentials                  |  
 HDI Support Center Analyst        |
 
+[![roadmap.sh](https://roadmap.sh/card/tall/65f9b6f7adfe421617323d83?variant=dark)](https://roadmap.sh)
 
 # To do
 - [ ] Complete Udacity DevOps Cloud Engineer Nanodegree
