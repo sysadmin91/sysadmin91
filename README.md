@@ -11,7 +11,7 @@ Hi,
 
 welcome to my Github profile!
 
-I am Paul and I am a **Linux sysadmin**. 
+I am Paul and I am a **sysadmin**. 
 
 I have worked since 2014 predominantly on **Linux** systems and **Oracle** products.
 
