@@ -43,6 +43,9 @@ I hope enjoy my profile keep learning and stay hungry!
 <img src="https://github.com/user-attachments/assets/e445bd7c-dace-41a0-9702-1aaee7277991" alt="suse" width="40" height="40"/> 
 <img src="https://github.com/user-attachments/assets/97f2302c-2bc1-4f2e-94fa-69704488bbfe" alt="ubuntu" width="40" height="40"/> 
 <img src="https://github.com/user-attachments/assets/8d791d20-c5a8-4b42-9d00-96ccacdcd4f5" alt="centos" width="40" height="40"/> 
+<img src="https://github.com/user-attachments/assets/17f81afd-3851-491a-bc56-abcb525dc6ad" alt="sap" width="40" height="40"/> 
+<img src="https://github.com/user-attachments/assets/f2123d73-8a23-4ba8-823c-1d166c3fe4a8" alt="aws" width="40" height="40"/> 
+<img src="https://github.com/user-attachments/assets/e05d91c1-c153-4f50-93af-7a2fa4bfb128" alt="cisco" width="40" height="40"/> 
 
 **Tools:**
 <img src="https://github.com/user-attachments/assets/08a196a1-5475-43dd-bd83-28d4fa47616e" alt="remedy" width="40" height="40"/>
