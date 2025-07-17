@@ -77,7 +77,6 @@ Bash     |
 Scrum Fundamentals Certified      <img src="https://github.com/user-attachments/assets/d58f601d-97f4-47e4-a4f9-873bef6c8d0a" alt="scrum fundamentals certification" width="100" height="100" /> |
 Google IT Support                 <img src="https://github.com/user-attachments/assets/8e797249-64b3-4549-a67c-419249e4f5d9" alt="google it support certification"  width="100" height="100" /> |
 Linux Essentials                  <img src="https://github.com/user-attachments/assets/44ea2e64-5ba8-46bc-a2bf-b0752dcacfe1" alt="linux essentials certification"  width="100" height="100" /> |  
-HDI Support Center Analyst        |
 
 [![roadmap.sh](https://roadmap.sh/card/tall/65f9b6f7adfe421617323d83?variant=dark)](https://roadmap.sh)
 
