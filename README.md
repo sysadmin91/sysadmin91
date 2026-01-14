@@ -18,7 +18,7 @@ I have worked since 2014 predominantly on **Linux** systems and **Oracle** produ
 
 I like to learn new things and improve myself with new ideas.
 
-At the moment studying and improve my English language in Dublin, but previously I have studied **AI**, **DevOps** and **Cloud Computing**.
+At the moment continuing to studying and improve my English and specializing on Public Cloud Infrastructure (AWS) after the completation of a professional and linguistic immersion in Dublin, but previously I have studied **AI**, **DevOps** and **Cloud Computing**.
 
 
 I am learning piano and I like to travel to know new places.
