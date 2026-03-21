@@ -15,19 +15,20 @@ I am Paul and I am a **sysadmin**.
 
 I have worked since 2014 predominantly on **Linux** systems and **Oracle** products.
 
+I am interested in Automation, Monitoring, Linux/Unix, DevOps, Cloud Computing, Oracle Databases, and other cool subjects.
 
-I like to learn new things and improve myself with new ideas.
 
 At the moment continuing to studying and improve my English and specializing on Public Cloud Infrastructure (AWS) after the completation of a professional and linguistic immersion in Dublin, but previously I have studied **AI**, **DevOps** and **Cloud Computing**.
 
 
-I am learning piano and I like to travel to know new places.
+I like to learn new things and improve myself with new ideas.
 
 
-I am interested in Automation, Monitoring, Linux/Unix, DevOps, Cloud Computing, Oracle Databases, and other cool subjects.
+I like to travel to know new places.
 
 
 I hope enjoy my profile keep learning and stay hungry!
+
 
 **Technologies:**
 <img src="https://github.com/user-attachments/assets/1a3b8221-9a70-4495-9920-7e01c3939bf9" alt="microfocus" width="40" height="40"/>
@@ -46,6 +47,7 @@ I hope enjoy my profile keep learning and stay hungry!
 <img src="https://github.com/user-attachments/assets/17f81afd-3851-491a-bc56-abcb525dc6ad" alt="sap" width="40" height="40"/> 
 <img src="https://github.com/user-attachments/assets/f2123d73-8a23-4ba8-823c-1d166c3fe4a8" alt="aws" width="40" height="40"/> 
 <img src="https://github.com/user-attachments/assets/e05d91c1-c153-4f50-93af-7a2fa4bfb128" alt="cisco" width="40" height="40"/> 
+
 
 **Tools:**
 <img src="https://github.com/user-attachments/assets/08a196a1-5475-43dd-bd83-28d4fa47616e" alt="remedy" width="40" height="40"/>
@@ -72,16 +74,12 @@ I hope enjoy my profile keep learning and stay hungry!
 Bash     |
 
 
-| Certifications                  |
-----------------------------------|
-Scrum Fundamentals Certified      <img src="https://github.com/user-attachments/assets/d58f601d-97f4-47e4-a4f9-873bef6c8d0a" alt="scrum fundamentals certification" width="100" height="100" /> |
-Google IT Support                 <img src="https://github.com/user-attachments/assets/8e797249-64b3-4549-a67c-419249e4f5d9" alt="google it support certification"  width="100" height="100" /> |
-Linux Essentials                  <img src="https://github.com/user-attachments/assets/44ea2e64-5ba8-46bc-a2bf-b0752dcacfe1" alt="linux essentials certification"  width="100" height="100" /> |  
-
 [![roadmap.sh](https://roadmap.sh/card/tall/65f9b6f7adfe421617323d83?variant=dark)](https://roadmap.sh)
 
-# To do
+# In progress
 - [ ] Complete Udacity DevOps Cloud Engineer Nanodegree
-- [X] Learning Proxmox
+- [ ] Reach B2 English level
+
+# To do
 - [ ] Expand knowledge and experience on Apache web servers and SSL/HTTPS certificate
 
