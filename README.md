@@ -1,10 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sysadmin91/sysadmin91/blob/main/img_dark.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/sysadmin91/sysadmin91/blob/main/img_light.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/sysadmin91/sysadmin91/blob/main/img_light.png">
-</picture>
-
-
 ### MY INTRODUCTION 👋
 
 Hi,
