@@ -67,7 +67,7 @@ I hope enjoy my profile keep learning and stay hungry!
 Bash     |
 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/65f9b6f7adfe421617323d83?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/65f9b6f7adfe421617323d83?variant=dark&roadmaps=linux%2Cterraform%2Cshell-bash%2Caws)](https://roadmap.sh)
 
 # In progress
 - [ ] Complete Udacity DevOps Cloud Engineer Nanodegree
